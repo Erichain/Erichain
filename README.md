@@ -34,3 +34,5 @@ If you have developing requirements, choose me regarding of following reasons:
 Looking forward to working with you.
 
 Contact me by email: [erichainzain@gmail.com](erichainzain@gmail.com)
+
+![Erichain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erichain&show_icons=true&theme=onedark)
