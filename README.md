@@ -32,3 +32,5 @@ If you have developing requirements, choose me regarding of following reasons:
 ⚡️ Good communication skills and ability to establish new contacts at work quickly.
 
 Looking forward to working with you.
+
+Contact me by email: [erichainzain@gmail.com](erichainzain@gmail.com)
