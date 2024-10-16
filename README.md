@@ -1,17 +1,8 @@
 Hi There 👋
 
-I am a professional front-end developer with over 8 years of experience in developing web applications, specializing in **React and TypeScript and SCSS and Tailwind CSS**.
+I am a professional full stack developer with over 8 years of experience in developing web applications, specializing in **React and TypeScript and Nest.js**.
 
 **And now I'm a Freelancer 👀.**
-
-The business types I'm good at are **CMS, CRM, ERP and admin system**.
-
-Especially proficient In 👨‍💻
-- HTML, CSS, JavaScript
-- TypeScript
-- React, Redux, React-Router
-- SCSS, Tailwind CSS
-- Nest, Node.js
 
 If you have developing requirements, choose me regarding of following reasons:
 
